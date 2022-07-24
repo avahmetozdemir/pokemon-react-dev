@@ -2,7 +2,7 @@
 
 React application built with React consuming the public PokéApi.
 
-Created with CRA with https://pokeapi.co/docs/v2 as the API. It also uses https://mui.com/ as front-end framework for React components.
+Created with React with https://pokeapi.co/docs/v2 as the API. It also uses https://mui.com/ as front-end framework for React components.
 
 Website link: [Pokemon-React-App](https://pokemon-react-dev.netlify.app/)
 
